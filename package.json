@@ -1,0 +1,23 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Full-stack Node/Express app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deanmixer/FriendFinder.git"
+  },
+  "author": "Dean Mixer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deanmixer/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/deanmixer/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
